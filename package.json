@@ -1,0 +1,20 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "telegram bot for information parents about lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Malykh Denis (iPristine)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iPristine/ddrobots-telegram-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iPristine/ddrobots-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/iPristine/ddrobots-telegram-bot#readme"
+}
